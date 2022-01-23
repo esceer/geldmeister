@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">Geldmeister</string>
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Geldmeister</string>
     <!-- Strings used for fragments for navigation -->
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
 
-    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="label_bill">Bill</string>
+    <string name="label_auto">Auto</string>
+    <string name="label_misc">Misc</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_reset">Reset</string>
+
+    <string name="error_msg_missing_expense_type">Expense type must be selected!</string>
+    <string name="warn_msg_zero_amount">Expense amount must be provided!</string>
 </resources>

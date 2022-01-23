@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/activity_main.xml" value="0.2536231884057971" />
+        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/activity_display_message.xml" value="0.6" />
+        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/activity_main.xml" value="0.38915470494417864" />
         <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/content_main.xml" value="0.2536231884057971" />
+        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/fragment_first.xml" value="0.536" />
+        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/layout/fragment_second.xml" value="0.4" />
+        <entry key="..\:/bits/projects/github/geldmeister/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2128205128205128" />
       </map>
     </option>
   </component>

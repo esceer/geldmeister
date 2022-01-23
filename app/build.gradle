@@ -8,6 +8,7 @@ android {
 
     defaultConfig {
         applicationId "com.esceer.geldmeister"
+        archivesBaseName = "Geldmeister"
         minSdk 30
         targetSdk 32
         versionCode 1
